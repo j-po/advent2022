@@ -1,6 +1,6 @@
 # advent2022
 
-A Clojure library designed to ... well, that part is up to you.
+Advent of Code 2022
 
 ## Usage
 
